@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Test case 1",
+      "setup": "python3 -m pip install pytest", 
+      "run": "python3 -m pytest test_file.py", 
+      "input": "",
+      "output": "",
+      "timeout": 10
+    }
+  ]
+}
